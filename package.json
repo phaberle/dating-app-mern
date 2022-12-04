@@ -1,0 +1,20 @@
+{
+  "name": "dating-app-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaberle/dating-app-mern.git"
+  },
+  "keywords": [],
+  "author": "Paul Haberle <paulshaberle@gmail.com> (https://github.com/phaberle?tab=repositories)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phaberle/dating-app-mern/issues"
+  },
+  "homepage": "https://github.com/phaberle/dating-app-mern#readme"
+}
